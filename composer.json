@@ -1,0 +1,17 @@
+{
+    "name": "dev/google_authenticator",
+    "autoload": {
+        "psr-4": {
+            "Dev\\GoogleAuthenticator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tarcizio Walter",
+            "email": "tarciziowalter@outlook.com"
+        }
+    ],
+    "require": {
+        "sonata-project/google-authenticator": "^2.3"
+    }
+}
